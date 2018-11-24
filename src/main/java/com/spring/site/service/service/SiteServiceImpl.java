@@ -12,7 +12,7 @@ import com.spring.site.service.domain.Site;
 import com.spring.site.service.repository.SiteRepository;
 
 /**
- * @author Rahul
+ * @author Sreedevi
  *
  */
 @Service
